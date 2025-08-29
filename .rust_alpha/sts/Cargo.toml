@@ -13,4 +13,4 @@ aws-auth = { git = "https://github.com/awslabs/aws-sdk-rust", tag = "v0.0.9-alph
 
 tokio = { version = "1", features = ["full"] }
 
-tracing-subscriber = "0.2.18"
+tracing-subscriber = "0.3.20"
