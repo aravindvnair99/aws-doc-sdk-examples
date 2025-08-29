@@ -11,4 +11,4 @@ sns = { git = "https://github.com/awslabs/aws-sdk-rust", tag = "v0.0.9-alpha", p
 aws-types = { git = "https://github.com/awslabs/aws-sdk-rust", tag = "v0.0.9-alpha", package = "aws-types" }
 tokio = { version = "1", features = ["full"] }
 structopt = { version = "0.3", default-features = false }
-tracing-subscriber = "0.2.18"
+tracing-subscriber = "0.3.20"
